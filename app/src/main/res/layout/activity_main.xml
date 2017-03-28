@@ -41,7 +41,7 @@
         android:background="@color/colorAccent" />
 
     <ImageView
-        android:id="@+id/"
+        android:id="@+id/imv_show"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
 </LinearLayout>
